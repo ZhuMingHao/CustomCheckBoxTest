@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomCheckBoxTest", "CustomCheckBoxTest\CustomCheckBoxTest.csproj", "{B69F3F20-42BC-4F3E-AE41-150B4312970F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM = Debug|ARM
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|ARM = Release|ARM
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B69F3F20-42BC-4F3E-AE41-150B4312970F}.Debug|ARM.ActiveCfg = Debug|ARM
+		{B69F3F20-42BC-4F3E-AE41-150B4312970F}.Debug|ARM.Build.0 = Debug|ARM
+		{B69F3F20-42BC-4F3E-AE41-150B4312970F}.Debug|ARM.Deploy.0 = Debug|ARM
+		{B69F3F20-42BC-4F3E-AE41-150B4312970F}.Debug|x64.ActiveCfg = Debug|x64
+		{B69F3F20-42BC-4F3E-AE41-150B4312970F}.Debug|x64.Build.0 = Debug|x64
+		{B69F3F20-42BC-4F3E-AE41-150B4312970F}.Debug|x64.Deploy.0 = Debug|x64
+		{B69F3F20-42BC-4F3E-AE41-150B4312970F}.Debug|x86.ActiveCfg = Debug|x86
+		{B69F3F20-42BC-4F3E-AE41-150B4312970F}.Debug|x86.Build.0 = Debug|x86
+		{B69F3F20-42BC-4F3E-AE41-150B4312970F}.Debug|x86.Deploy.0 = Debug|x86
+		{B69F3F20-42BC-4F3E-AE41-150B4312970F}.Release|ARM.ActiveCfg = Release|ARM
+		{B69F3F20-42BC-4F3E-AE41-150B4312970F}.Release|ARM.Build.0 = Release|ARM
+		{B69F3F20-42BC-4F3E-AE41-150B4312970F}.Release|ARM.Deploy.0 = Release|ARM
+		{B69F3F20-42BC-4F3E-AE41-150B4312970F}.Release|x64.ActiveCfg = Release|x64
+		{B69F3F20-42BC-4F3E-AE41-150B4312970F}.Release|x64.Build.0 = Release|x64
+		{B69F3F20-42BC-4F3E-AE41-150B4312970F}.Release|x64.Deploy.0 = Release|x64
+		{B69F3F20-42BC-4F3E-AE41-150B4312970F}.Release|x86.ActiveCfg = Release|x86
+		{B69F3F20-42BC-4F3E-AE41-150B4312970F}.Release|x86.Build.0 = Release|x86
+		{B69F3F20-42BC-4F3E-AE41-150B4312970F}.Release|x86.Deploy.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F88B40C4-1472-4FBD-906B-34510BBDC24E}
+	EndGlobalSection
+EndGlobal
